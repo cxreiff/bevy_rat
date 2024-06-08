@@ -1,7 +1,7 @@
 [package]
 name = "bevy_ratatui_render"
 description = "A bevy plugin for rendering your bevy app to the terminal using ratatui."
-version = "0.2.0"
+version = "0.2.1"
 edition = "2021"
 authors = ["cxreiff <cooper@cxreiff.com>"]
 license = "MIT OR Apache-2.0"
