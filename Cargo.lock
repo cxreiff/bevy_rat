@@ -773,7 +773,9 @@ checksum = "8050e2869fe341db6874203b5a01ff12673807a2c7c80cb829f6c7bea6997268"
 
 [[package]]
 name = "bevy_ratatui"
-version = "0.5.0"
+version = "0.5.1"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "49835da20612d266f49e187897942baef8d0adf88e7096959b3fedbce46deb6f"
 dependencies = [
  "bevy",
  "color-eyre",
@@ -783,11 +785,10 @@ dependencies = [
 
 [[package]]
 name = "bevy_ratatui_render"
-version = "0.2.0"
+version = "0.2.1"
 dependencies = [
  "bevy",
  "bevy_ratatui",
- "color-eyre",
  "crossbeam-channel",
  "crossterm",
  "ratatui",
