@@ -1,4 +1,4 @@
-sname: check
+name: check
 
 on:
   push:
